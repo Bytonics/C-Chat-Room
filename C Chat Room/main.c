@@ -2,7 +2,7 @@
 //  main.c
 //  C Chat Room
 //
-//  Created by Oseriemen Ivbaze on 12/2/18.
+//  Created by Oseriemen Ivbaze, Kareem Bishi, Chau Mai on 12/2/18.
 //  Copyright © 2018 Chat Room. All rights reserved.
 //
 
